@@ -4,3 +4,9 @@ h1 {
     color: darkmagenta;
     font-size: 60px;
 }
+
+#bag {
+    color: brown;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
