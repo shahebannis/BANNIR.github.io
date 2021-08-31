@@ -10,3 +10,9 @@ h1 {
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
 }
+
+#cheese {
+    color: blue;
+    font-size: 15px;
+    animation: infinite;
+}
