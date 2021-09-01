@@ -16,3 +16,7 @@ h1 {
     font-size: 15px;
     animation: infinite;
 }
+
+#spotify {
+    text-align: center;
+}
