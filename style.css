@@ -22,8 +22,8 @@ h1 {
 }
 
 div.parallax {
-    background-image: url(mark.png);
-    min-height: 500px;
+    background-image: url("mark.png");
+    height: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
