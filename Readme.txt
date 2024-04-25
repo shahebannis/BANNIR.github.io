@@ -1,6 +1,6 @@
 Personal Portfolio Directory
 
-Using a Template:
+Template I'm using;
 Name: iPortfolio
 URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 Author: BootstrapMade.com
